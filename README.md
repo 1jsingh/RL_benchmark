@@ -1,2 +1,2 @@
-# RL_benchmark
+# About
 Implementation of Benchmark Reinforcement Learning Algorithms in Pytorch
